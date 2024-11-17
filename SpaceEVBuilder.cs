@@ -31,6 +31,7 @@ namespace SpaceEngineersScripting
 {
     class SpaceEVBuilder : MyGridProgram
     {
+/*Remove above when paste to In-Game editor. For IDE intellisense*/
         #region CodeEditor
         bool UseConveyerCheck = true;
 
@@ -916,6 +917,6 @@ namespace SpaceEngineersScripting
         }*/
 
         #endregion
-
+/*Remove below when paste to In-Game editor. For IDE intellisense*/        
     }
 }
